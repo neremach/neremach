@@ -1,4 +1,4 @@
-<h3 align="center">A System Analyst Student.</h3>
+<h3 align="center">System Analyst Student.</h3>
 
 - 🌱 I’m currently learning **basic programming information**
 
