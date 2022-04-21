@@ -1,6 +1,6 @@
 <h3 align="center">A System Analyst Student.</h3>
 
-- 🌱 I’m currently learning **introduction to programming**
+- 🌱 I’m currently learning **basic programming information**
 
 - 📫 How to reach me **machadonere02@gmail.com**
 
